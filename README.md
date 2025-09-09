@@ -11,9 +11,6 @@ A collection of embedded system projects focused on attendance management using 
 - [Hardware Requirements](#hardware-requirements)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ---
 
